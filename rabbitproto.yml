@@ -8,11 +8,11 @@ nuvola:
   avaya:
     queueAcd1: avaya1.queue
     queueAcd2: avaya2.queue
-  key:
-    userKey: user.*
-    userToKey: user.to.*
-  exchange:
-    topicUser: NEW_USER_EXCHANGE
+    key:
+      userKey: user.*
+      userToKey: user.to.*
+    exchange:
+      topicUser: NEW_USER_EXCHANGE
 ---
 spring:
   profiles: production
