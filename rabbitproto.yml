@@ -7,7 +7,7 @@ application:
 nuvola:
   avaya:
     queueAcd1: avaya1.queue
-    queueAcd1: avaya2.queue
+    queueAcd2: avaya2.queue
   key:
     userKey: user.*
     userToKey: user.to.*
