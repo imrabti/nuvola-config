@@ -4,6 +4,8 @@ application:
   version: 1.0
   formatted-version: (v1.0)
   name: rabbitproto
+nuvola:
+  url: test.com
 ---
 spring:
   profiles: production
